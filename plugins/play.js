@@ -28,7 +28,7 @@ _*NIH DAH JADI*_
 `.trim(), m, false, _thumb || {})
 }
 handler.help = ['play', 'play2'].map(v => v + ' <pencarian>')
-handler.tags = ['downloader']
+handler.tags = ['Downloader']
 handler.command = /^play2?$/i
 handler.premium = true
 
